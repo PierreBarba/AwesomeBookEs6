@@ -27,7 +27,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Capton Project] <a name="Capton project First Module"></a>
+# 📖 [Capton Project] <a name="Awesome book ES6"></a>
 
 
 **[Personal Portfolio Pierre]** is a...
