@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Awesome Books2</title>
+</head>
+<body>
+    <div class="containerHeader">
+        <header class="header">
+            <h2>Awesome books</h2>
+            <ul class="header-ul">
+                <li class="header-list"><a id="list-link" href="#" class="header-link">List | </a>
+                    <hr class="menu-separator">
+                </li>
+                <li class="header-list"><a id="add-link" href="#" class="header-link">Add new | </a>
+                    <hr class="menu-separator">
+                </li>
+                <li class="header-list"><a id="contact-link" href="#" class="header-link">Contact</a></li>
+            </ul>
+        </header>
+        <div class="container">
+            <p><span id="date"></span></p>
+        </div>
+
+        <section id="book-cont">
+          <div id="book-cont"><h1>All awesome books</h1></div>
+          <div class="taskscss" id="tasks" class=""></div>
+        </section>
+        
+        
+        <form action="" id="form" class="hidden">
+            <h2 class="form-title">Add a new book</h2>
+            <div>
+            <input type="text" id="title" placeholder="Title" class="form-element" required>
+            </div>
+            <div>
+            <input type="text" id="author" placeholder="Author" class="form-element" required>
+            </div>
+            <div>
+            <input type="submit" id="add-btn" value="Add" />
+            </div>
+        </form>
+        <section id="contact" class="hidden">
+          <h2 class="form-title">Contact information</h2>
+          <p>Do have any questions or you, just want to say "Hello"?</p>
+          <p>You can reach out to us!</p>
+          <ul>
+            <li>Our e-mail: mail@mail.com</li>
+            <li>Our phone number: 00435486534422</li>
+            <li>Our address: Streetname 22, 84503 City, Country</li>
+          </ul>
+        </section>
+        <footer>
+          <p>Copyright (c) SomeBusiness 2022</p>
+        </footer>
+    </div>    
+      <script src="index.js" type="module"></script>
+</body>
+</html>
