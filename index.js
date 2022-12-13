@@ -1,5 +1,5 @@
 import Book from './modules/book.js';
-import navbar from './modules/navInteraction.js';
+import navbar from './modules/nav.js';
 import { DateTime } from './modules/luxon.js';
 
 class BookCollection {
