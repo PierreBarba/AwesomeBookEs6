@@ -1,1 +1,1 @@
-Una aplicación de libros diseñada para ayudar a los usuarios a guardar el nombre de sus lirbos favoritos y autores ver en que momento lo hacen y ver libros guardados anteriormente, Creado con HTML,CSS y JS".
+A books app designed to help users save the name of their favorite books and authors see when they do it and view previously saved books, created with HTML, CSS and JS."
